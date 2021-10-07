@@ -134,10 +134,12 @@ Ein Stylesheet kann direkt in ein HTML-Dokument geschrieben werden, einzelne Dek
 
 Selektor, gefolgt von Deklaration:
 
+```
 p {
   font-size: 0.75rem;
   line-height: 1.2;
 }
+```
 
 Die Schriftgrösse so einstellen, dass die Benutzereinstellungen respektiert werden.
 
