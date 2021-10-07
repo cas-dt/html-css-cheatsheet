@@ -37,7 +37,7 @@ JavaScript (JS) ist eine Programmiersprache, mit der sich beeinflussen lässt, w
 - Die meisten Tags treten paarweise auf und fassen ein Text-Element ein: `<h1>Eine Überschrift</h1>`
 - der *schliessende Tag* wird mit einem Schrägstrich `/` gekennzeichnet.
 - In Tags kann zusätzlich zum Namen noch weitere Information enthalten sein, in der Regel als *Eigenschaft-Wert-Paar*: `href="https://info.cern.ch"`
-- So ein Zusatz wird als `Attribut` bezeichnet: `<a href="https://info.cern.ch">
+- So ein Zusatz wird als `Attribut` bezeichnet: `<a href="https://info.cern.ch">`
 - Beispiele für *Attribute* sind Link-Ziele, Klassen oder eine ID.
 
 ## CSS-Syntax
