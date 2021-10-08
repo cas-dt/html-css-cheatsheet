@@ -23,7 +23,7 @@ Ein **Browser** ist eine Software, die HTML-Dokumente rendert.
 
 HTML ist eine *Auszeichnungssprache*. CSS ist eine *Stylesheet-Sprache*.
 
-**JavaScript** (JS) ist eine Programmiersprache, mit der sich beeinflussen lässt, wie HTML-Dokumente im Browser gerendert werden. Sie kann auch dazu gebraucht werden, Inhalte zu laden, bewegte Bilder zu programmiern und Server-seitige Software zu schreiben. Wenn du dich dafür interessierst, beginne mit [Daniel Shiffmans Youtube-Kanal ‘The Coding Train’](https://www.youtube.com/c/TheCodingTrain).
+**JavaScript** (JS) ist eine Programmiersprache, mit der sich beeinflussen lässt, wie HTML-Dokumente im Browser gerendert werden. Sie kann auch dazu gebraucht werden, Inhalte zu laden, bewegte Bilder zu programmieren und Serverseitige Software zu schreiben. Wenn du dich dafür interessierst, beginne mit [Daniel Shiffmans Youtube-Kanal ‘The Coding Train’](https://www.youtube.com/c/TheCodingTrain).
 
 ## HTML-Syntax
 
@@ -96,7 +96,7 @@ Ein Stylesheet kann direkt in ein HTML-Dokument geschrieben werden, einzelne Dek
 
 `margin: 1rem 2rem;` 2 Werte: oben/unten und links/rechts
 
-`margin: 0 2rem 1rem;` 3 Werte: oben, liks/rechts, unten
+`margin: 0 2rem 1rem;` 3 Werte: oben, links/rechts, unten
 
 `margin: 1rem 1rem 2rem 0;` 4 Werte: von oben im Uhrzeigersinn
 
