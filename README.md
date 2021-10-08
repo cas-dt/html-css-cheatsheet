@@ -15,15 +15,15 @@ CSS: ‘Cascading Style Sheets’
 - HTML- und CSS schreiben ist Coding.
 - HTML- und CSS schreiben ist ernsthafte Programmierung. Wer etwas anderes behauptet, beweist nur seine Unkenntnis.
 
-HTML dient zur Strukturierung von Dokumenten, so dass sie adäquat gerendert werden können. Und dass sie von interpretierender Software (Suchmaschinen, Text-to-Speech, Übersetzung etc.) gut evaluiert werden kann.
+**HTML** dient zur Strukturierung von Dokumenten, so dass sie adäquat gerendert werden können. Und dass sie von interpretierender Software (Suchmaschinen, Text-to-Speech, Übersetzung etc.) gut evaluiert werden können.
 
-CSS dient dazu, HTML-Dokumente zu gestalten.
+**CSS** dient dazu, HTML-Dokumente zu gestalten.
 
-Ein Browser ist eine Software, die HTML-Dokumente rendert.
+Ein **Browser** ist eine Software, die HTML-Dokumente rendert.
 
 HTML ist eine *Auszeichnungssprache*. CSS ist eine *Stylesheet-Sprache*.
 
-JavaScript (JS) ist eine Programmiersprache, mit der sich beeinflussen lässt, wie HTML-Dokumente im Browser gerendert werden. Sie kann auch dazu gebraucht werden, Inhalte zu laden, bewegte Bilder zu programmiern und Server-seitige Software zu schreiben. Wir werden JS nicht anschauen, weil uns die Zeit fehlt. Wenn es dich interessiert, beginne mit [Daniel Shiffmans Youtube-Kanal ‘The Coding Train’](https://www.youtube.com/c/TheCodingTrain).
+**JavaScript** (JS) ist eine Programmiersprache, mit der sich beeinflussen lässt, wie HTML-Dokumente im Browser gerendert werden. Sie kann auch dazu gebraucht werden, Inhalte zu laden, bewegte Bilder zu programmiern und Server-seitige Software zu schreiben. Wenn du dich dafür interessierst, beginne mit [Daniel Shiffmans Youtube-Kanal ‘The Coding Train’](https://www.youtube.com/c/TheCodingTrain).
 
 ## HTML-Syntax
 
